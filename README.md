@@ -1,2 +1,2 @@
-# java-8-exemplos
+# Java 8 Exemplos
 Exemplos de Código para Java 8
